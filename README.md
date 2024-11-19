@@ -19,7 +19,7 @@ NumPy, Matplotlib, Seaborn, and other dependencies (see requirements.txt for det
 
 #**Usage**
 Clone this repository:
-git clone https://github.com/YourUsername/Hindi_Character_Recognition.git
+git clone https://github.com/HarshDeo7543/Hindi_Character_Recognition.git
 Install dependencies:
 pip install -r requirements.txt
 python Hindi_Character_Recognition.py
